@@ -1,0 +1,16 @@
+body {font-family: 'Noto Sans TC', sans-serif;}
+h1 {font-family: 'Noto Sans TC', sans-serif; }
+
+.my-btn-color { 
+    background-color: blueviolet;
+}
+.jumbotron { background-color: yellowgreen;}
+
+h1 { color: royalblue !important;}
+p{color: royalblue;
+}
+.thumbnail {> li {
+    display: inline-block;
+    *display:inline; /* ie7 fix */
+    float:
+}
