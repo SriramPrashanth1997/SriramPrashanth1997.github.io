@@ -4,13 +4,14 @@ h1 {font-family: 'Noto Sans TC', sans-serif; }
 .my-btn-color { 
     background-color: blueviolet;
 }
-.jumbotron { background-color: yellowgreen;}
+.jumbotron { background-color: black;} 
 
-h1 { color: royalblue !important;}
-p{color: royalblue;
+h1 { color: white !important;}
+p{color: black;
 }
-.thumbnail {> li {
-    display: inline-block;
-    *display:inline; /* ie7 fix */
-    float:
-}
+.my_icon_color { color:orange;}
+.my_icon_color2 {color: red}
+.my_margin_top {margin-top: 2%}
+.my_link:hover { text-decoration: none; color: gold;}
+.general_spacing {margin-bottom: 100px}
+h1
